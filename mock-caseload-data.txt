@@ -1,0 +1,55 @@
+
+Member ID
+Risk Level
+Last Visit
+Visit Due
+Note Due
+Outstanding Items
+M-001
+HIGH
+05/10/2026
+06/05/2026
+OVERDUE
+Fall report not submitted. No POA on file.
+M-002
+MEDIUM
+05/22/2026
+06/22/2026
+06/24/2026
+Care plan renewal due 06/15.
+M-003
+LOW
+05/28/2026
+06/28/2026
+06/30/2026
+Stable. No outstanding items.
+M-004
+HIGH
+04/30/2026
+OVERDUE
+OVERDUE
+Missed visit. Member unresponsive to calls. Dementia — no legal rep on file.
+M-005
+MEDIUM
+05/15/2026
+06/15/2026
+06/17/2026
+ALF placement change pending. Needs updated address.
+M-006
+LOW
+05/30/2026
+06/30/2026
+07/02/2026
+Welcome package unconfirmed.
+M-007
+HIGH
+05/01/2026
+06/01/2026
+06/03/2026
+Hospitalization last week. Transition of care not documented.
+M-008
+MEDIUM
+05/20/2026
+06/20/2026
+06/22/2026
+Monthly call not completed. Competent member — eligible for self-check-in text.
